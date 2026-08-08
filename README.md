@@ -103,8 +103,14 @@ Examples include:
 - DATEDIFF
 - Conditional aggregation
 
-## Project Structure
 
+## Entity-Relationship Diagram
+
+The database schema is represented using an Entity-Relationship (ER) diagram showing the main entities, attributes, primary keys, foreign keys, and relationships.
+
+![Bug Tracking System ER Diagram](_BugTracker_ER.drawio.png)
+
+## Project Structure
 ```text
 bug-tracking-system-database/
 │
